@@ -1,0 +1,14 @@
+# Python virtual environment and caches
+backend/venv/
+backend/__pycache__/
+backend/uploaded_vault/
+*.pyc
+
+# Frontend node dependencies and production builds
+frontend/node_modules/
+frontend/dist/
+
+# Environmental and system files
+.env
+.DS_Store
+Thumbs.db

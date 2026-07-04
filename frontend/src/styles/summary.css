@@ -1,0 +1,11 @@
+.summary-view-container { max-width: 900px; margin: 0 auto; }
+.summary-generation-form { padding: 32px; margin-bottom: 40px; }
+.summary-output-card { padding: 40px; }
+
+.summary-header-actions { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-glass); padding-bottom: 20px; margin-bottom: 24px; }
+.summary-title-block h2 { font-size: 1.5rem; font-weight: 700; }
+.summary-timestamp { font-size: 0.8rem; color: var(--text-muted); }
+.summary-actions-cluster { display: flex; gap: 12px; }
+
+.summary-icon-action-btn { width: 40px; height: 40px; border-radius: 8px; background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border-glass); display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--text-muted); }
+.summary-rich-body { font-size: 1.05rem; line-height: 1.7; color: #E2E8F0; white-space: pre-wrap; }
